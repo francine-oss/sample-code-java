@@ -45,3 +45,4 @@ Please set the JAVA environment proxy credentials using a similar code :
     System.setProperty(Constants.HTTPS_PROXY_USERNAME, "exampleUsername");
     System.setProperty(Constants.HTTPS_PROXY_PASSWORD, "examplePassword");
 ```
+Thank you
